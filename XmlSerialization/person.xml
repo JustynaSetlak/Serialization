@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Imie>Jan</Imie>
-  <Nazwisko>Kowalski</Nazwisko>
-  <DataUrodzin>1993-02-01T00:00:00</DataUrodzin>
-  <Adres NazwaUlicy="Polaka" NumerDomu="10" Miasto="Wrocław" />
-</Person>

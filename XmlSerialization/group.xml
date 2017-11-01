@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Group xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <People>
+    <FirstName>Michael</FirstName>
+    <LastName>Peres</LastName>
+    <ReadBooks>
+      <Book>
+        <Title>Paper Magician</Title>
+        <Publisher>NYT</Publisher>
+      </Book>
+      <Book>
+        <Title>A criminal Deffence</Title>
+        <Publisher>NYT</Publisher>
+      </Book>
+    </ReadBooks>
+  </People>
+  <People>
+    <FirstName>Christopher</FirstName>
+    <LastName>Peres</LastName>
+    <ReadBooks>
+      <Book>
+        <Title>Paper Magician</Title>
+        <Publisher>NYT</Publisher>
+      </Book>
+      <Book>
+        <Title>A criminal Deffence 2</Title>
+        <Publisher>NYT</Publisher>
+      </Book>
+    </ReadBooks>
+  </People>
+</Group>
